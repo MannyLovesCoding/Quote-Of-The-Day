@@ -1,0 +1,31 @@
+body {
+    background-color: bisque;
+}
+
+* {
+    text-align: center;
+}
+
+h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#quoteBtn {
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    top: 25px;;
+}
+
+#quote, #quoteAuthor {
+    font-size: 50px;
+}
+
+img {
+    height: 50px;
+}
